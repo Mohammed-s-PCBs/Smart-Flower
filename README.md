@@ -10,3 +10,12 @@ It also features a TP4056 module for charging the battery. 🔋
 
 To make it visually appealing, I'll design a 3D-printed case that looks like a flower to house the PCB. 🌼
 It'll look awesome in the vase! I created this PCB using EasyEDA Pro! 🛠️
+
+You can view a render of your board over on [gerber.zip/2d](https://gerber.zip/2d/?mode=layers&boardUrl=https://raw.githubusercontent.com/Mohammed-s-PCBs/Smart-Flower/main/pcb/gerber.zip)!
+
+## 2D and 3D Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohammed-s-PCBs/Smart-Flower/main/pcb/images/2D%20Preview.png" alt="2D Preview" height="300px" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/Mohammed-s-PCBs/Smart-Flower/main/pcb/images/3D%20Preview.png" alt="3D Preview" height="300px">
+</p>
